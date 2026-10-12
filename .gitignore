@@ -1,0 +1,7 @@
+# 本机私有配置
+config.local.ahk
+
+# 运行时日志与状态（含使用时间记录）
+*.log
+*.log.old
+.hook-reload
